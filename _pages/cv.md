@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Vision, Linköping University, 2025 (expected)
-* M.S. in Computer Vision, Beijing Institute of Technology, 2018
-* B.S. in Electronic Engineering, Beijing Institute of Technology, 2014
+* M.S. in Computer Vision, Beijing Institute of Technology, 2021
+* B.S. in Electronic Engineering, Beijing Institute of Technology, 2018
 
 Work experience
 ======
